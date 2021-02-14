@@ -15,8 +15,7 @@ A coding language im working on currently based on c
 
 *But* I have made a console command to say hello world!
   <div>
-    Atech
-    hello world
+     The command is called Atech
   </div>
 
 </pre>
