@@ -1,7 +1,7 @@
 ## **Atech**
 ---
 A coding language im working on currently based on c
-
+![My logo] (https://github.com/wijiler/Atech/blob/Logo/Atech_Logo.png "Atech logo")
 currently I have not finished the lexer
 
 *But* I have made a console command to say hello world!
