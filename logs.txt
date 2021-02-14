@@ -1,0 +1,2 @@
+log 1
+started working on the lexer
