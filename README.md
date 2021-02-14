@@ -1,8 +1,13 @@
-## **Atech**
+<h2 align="center"> Atech </h2>
 ---
+<div align="center">
+  <img src="https://github.com/wijiler/Atech/blob/Logo/Atech_Logo.png" alt="Logo didnt load :/"/>
+</div>
 A coding language im working on currently based on c
-![My logo] (https://github.com/wijiler/Atech/blob/Logo/Atech_Logo.png "Atech logo")
-currently I have not finished the lexer
+
+<br>
+
+<h3> currently I have not finished the lexer </h3>
 
 *But* I have made a console command to say hello world!
 
