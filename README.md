@@ -9,8 +9,8 @@ A coding language im working on currently based on c
 
 <br>
 
-<h3> currently I have not finished the lexer </h3>
-
+<h3 align="center"> currently I have not finished the lexer </h3>
+<pre align="center">
 *But* I have made a console command to say hello world!
 
 |(user@user) - ~
@@ -18,4 +18,4 @@ A coding language im working on currently based on c
 |_$ atech
 
 Hello World
-
+</pre>
