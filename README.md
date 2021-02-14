@@ -17,6 +17,6 @@ A coding language im working on currently based on c
   <div>
      The command is called Atech
   </div>
-
+  <h1> NOTE: This is being devoloped in linux and I dont know if it works on windows or mac</h1>
 </pre>
 <!-- say hi to atech -->
