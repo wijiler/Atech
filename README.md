@@ -5,17 +5,18 @@
 <div align="center">
   <img src="https://github.com/wijiler/Atech/blob/Logo/Atech_Logo.png" alt="Logo didnt load :/"/>
 </div>
+<pre align="center">
 A coding language im working on currently based on c
 
 <br>
 
-<h3 align="center"> currently I have not finished the lexer </h3>
-<pre align="center">
+<h3> currently I have not finished the lexer </h3>
+<br>
+
 *But* I have made a console command to say hello world!
+  <div>
+    Atech
+    hello world
+  </div>
 
-|(user@user) - ~
-
-|_$ atech
-
-Hello World
 </pre>
