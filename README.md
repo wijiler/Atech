@@ -19,4 +19,4 @@ A coding language im working on currently based on c
   </div>
 
 </pre>
-// say hi to atech
+<!-- say hi to atech -->
